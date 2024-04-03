@@ -1,0 +1,16 @@
+D:\POC\LLD System Design\Design Tic-Tac-Toe\Design Tic-Tac-Toe\bin\Debug\net5.0\Design Tic-Tac-Toe.exe
+D:\POC\LLD System Design\Design Tic-Tac-Toe\Design Tic-Tac-Toe\bin\Debug\net5.0\Design Tic-Tac-Toe.deps.json
+D:\POC\LLD System Design\Design Tic-Tac-Toe\Design Tic-Tac-Toe\bin\Debug\net5.0\Design Tic-Tac-Toe.runtimeconfig.json
+D:\POC\LLD System Design\Design Tic-Tac-Toe\Design Tic-Tac-Toe\bin\Debug\net5.0\Design Tic-Tac-Toe.runtimeconfig.dev.json
+D:\POC\LLD System Design\Design Tic-Tac-Toe\Design Tic-Tac-Toe\bin\Debug\net5.0\Design Tic-Tac-Toe.dll
+D:\POC\LLD System Design\Design Tic-Tac-Toe\Design Tic-Tac-Toe\bin\Debug\net5.0\ref\Design Tic-Tac-Toe.dll
+D:\POC\LLD System Design\Design Tic-Tac-Toe\Design Tic-Tac-Toe\bin\Debug\net5.0\Design Tic-Tac-Toe.pdb
+D:\POC\LLD System Design\Design Tic-Tac-Toe\Design Tic-Tac-Toe\obj\Debug\net5.0\Design Tic-Tac-Toe.csproj.AssemblyReference.cache
+D:\POC\LLD System Design\Design Tic-Tac-Toe\Design Tic-Tac-Toe\obj\Debug\net5.0\Design Tic-Tac-Toe.GeneratedMSBuildEditorConfig.editorconfig
+D:\POC\LLD System Design\Design Tic-Tac-Toe\Design Tic-Tac-Toe\obj\Debug\net5.0\Design Tic-Tac-Toe.AssemblyInfoInputs.cache
+D:\POC\LLD System Design\Design Tic-Tac-Toe\Design Tic-Tac-Toe\obj\Debug\net5.0\Design Tic-Tac-Toe.AssemblyInfo.cs
+D:\POC\LLD System Design\Design Tic-Tac-Toe\Design Tic-Tac-Toe\obj\Debug\net5.0\Design Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+D:\POC\LLD System Design\Design Tic-Tac-Toe\Design Tic-Tac-Toe\obj\Debug\net5.0\Design Tic-Tac-Toe.dll
+D:\POC\LLD System Design\Design Tic-Tac-Toe\Design Tic-Tac-Toe\obj\Debug\net5.0\ref\Design Tic-Tac-Toe.dll
+D:\POC\LLD System Design\Design Tic-Tac-Toe\Design Tic-Tac-Toe\obj\Debug\net5.0\Design Tic-Tac-Toe.pdb
+D:\POC\LLD System Design\Design Tic-Tac-Toe\Design Tic-Tac-Toe\obj\Debug\net5.0\Design Tic-Tac-Toe.genruntimeconfig.cache
