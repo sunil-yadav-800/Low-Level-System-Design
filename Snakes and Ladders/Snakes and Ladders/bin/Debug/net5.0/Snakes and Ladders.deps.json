@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Snakes and Ladders/1.0.0": {
+        "runtime": {
+          "Snakes and Ladders.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Snakes and Ladders/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
